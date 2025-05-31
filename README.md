@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo [João Miguel](www.linkedin.com/in/joão-miguel-oliveira-5ba652305), tenho 19 anos e sou natural do Rio Grande do Norte. Atualmente, estou no terceiro período de Bacharelado em Teconlogia da Informação na UFRN ([BTI](https://www.metropoledigital.ufrn.br/portal/ensino/graduacao/bti)). Busco aprimorar meus conhecimentos e propor soluções de fato eficientes.
+Me chamo [João Miguel](https://www.linkedin.com/in/joão-miguel-oliveira-5ba652305), tenho 19 anos e sou natural do Rio Grande do Norte. Atualmente, estou no terceiro período de Bacharelado em Teconlogia da Informação na UFRN ([BTI](https://www.metropoledigital.ufrn.br/portal/ensino/graduacao/bti)). Busco aprimorar meus conhecimentos e propor soluções de fato eficientes.
 
  <p align="left">
         <a href="mailto:jm.sousa.oliveira153@gmail.com">
