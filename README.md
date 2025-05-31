@@ -8,10 +8,10 @@ Me chamo [João Miguel](www.linkedin.com/in/joão-miguel-oliveira-5ba652305), te
         <a href="mailto:jm.sousa.oliveira153@gmail.com">
         <img alt="Email" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/Email-Gmail-D93025?logo=gmail&logoColor=white&style=for-the-badge&labelColor=AD1A10" />
         </a>
-        <a href="www.linkedin.com/in/joão-miguel-oliveira-5ba652305" target="_blank">
+        <a href="https://www.linkedin.com/in/joão-miguel-oliveira-5ba652305" target="_blank">
         <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white&labelColor=004182&style=for-the-badge" /></a>
       <a href="https://github.com/joaoMiguelSousaOliveira?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JoaoMiguelSousaOliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/joaoMiguelSousaOliveira?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
