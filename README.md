@@ -24,10 +24,10 @@ Me chamo [João Miguel](https://www.linkedin.com/in/joão-miguel-oliveira-5ba652
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin-right:10px;" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin-right:10px;" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin-right:10px;" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" />
   <img width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="margin-right:10px;" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="margin-right:10px;" />
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" />
   <img width="30px" src="icons8-microsoft-power-automate-2020.svg" width="40" />
 </p>
 
