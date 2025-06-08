@@ -48,7 +48,7 @@ Me chamo [João Miguel](https://www.linkedin.com/in/joão-miguel-oliveira-5ba652
   align="left"
   alt="GitHub Stats"
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMiguelSousaOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMiguelSousaOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias"
   />
 
 
