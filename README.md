@@ -12,7 +12,7 @@ Me chamo [João Miguel](https://www.linkedin.com/in/joão-miguel-oliveira-5ba652
       <a href="https://github.com/joaoMiguelSousaOliveira?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/joaoMiguelSousaOliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/joaoMiguelSousaOliveira?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joaoMiguelSousaOliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JoaoMiguelSousaOliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -41,14 +41,14 @@ Me chamo [João Miguel](https://www.linkedin.com/in/joão-miguel-oliveira-5ba652
   alt="GitHub Stats"
   style="margin-right:5px"
   height="170"
-  src="https://github-readme-stats.vercel.app/api/?username=joaoMiguelSousaOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  src="https://github-readme-stats.vercel.app/api/?username=JoaoMiguelSousaOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
 <img
   align="left"
   alt="GitHub Stats"
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMiguelSousaOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiguelSousaOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&"
   />
 
 
